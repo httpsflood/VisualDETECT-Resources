@@ -1,0 +1,2497 @@
+[
+  {
+    "Modules": [
+      {
+        "2DCompanion": {
+          "Scale": 150,
+          "Speed": 3.0,
+          "Mode": "Cutie2",
+          "Position": [
+            0.33852834,
+            0.1662989
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Ambience": {
+          "customSkyColor": true,
+          "World": false,
+          "GrassColor": [
+            -8532946,
+            false,
+            0
+          ],
+          "FoliageColor": [
+            -10772435,
+            false,
+            0
+          ],
+          "Lava": [
+            -16744961,
+            false,
+            0
+          ],
+          "Water": [
+            -16744961,
+            false,
+            0
+          ],
+          "FireOverlayColor": [
+            -39424,
+            false,
+            0
+          ],
+          "FireColor": [
+            -39424,
+            false,
+            0
+          ],
+          "EndSky": false,
+          "OverworldSkyColor": [
+            -16777216,
+            false,
+            0
+          ],
+          "NetherSkyColor": [
+            -10092544,
+            false,
+            0
+          ],
+          "EndSkyColor": [
+            -7924523,
+            false,
+            0
+          ],
+          "FogModify": true,
+          "FogStart": 15,
+          "FogEnd": 201,
+          "FogColor": [
+            -1,
+            false,
+            0
+          ],
+          "ChangeTime": true,
+          "Time": 20,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Animations": {
+          "DisableSwapMain": false,
+          "DisableSwapOff": false,
+          "Mode": "Default",
+          "SlowAnimation": false,
+          "SlowValue": 1,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiAim": {
+          "Mode": "RandomAngle",
+          "SpinSpeed": 20.0,
+          "RandomDelay": 1,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiCrash": {
+          "Debug": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiServerAdd": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AntiServerRP": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ArmorHud": {
+          "Mode": "Catlean",
+          "Advanced": true,
+          "Position": [
+            0.60833305,
+            0.9405943
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ArrayList": {
+          "Mode": "ColorText",
+          "GS": 50,
+          "glow": true,
+          "HideHud": true,
+          "HideRender": true,
+          "RectColor": [
+            -65536,
+            false,
+            0
+          ],
+          "SideRectColor": [
+            -16777216,
+            false,
+            0
+          ],
+          "Position": [
+            1.0,
+            0.008305163
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AspectRatio": {
+          "Ratio": 1.25,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AutoDisplays": {
+          "RequireOP": false,
+          "ToggleIfAlone": true,
+          "TrollFriends": false,
+          "TrollYourself": false,
+          "KillEntities": true,
+          "TickDelay": 0,
+          "KillDelay": 6,
+          "BlockBrightness": 0,
+          "Text": "Your%%server%%is%%being%%renovated!%%@SOCKETLIFE%%SERVER%%L",
+          "TextBrightness": 15,
+          "TextDistance": 2,
+          "DisplayMode": "TEXT",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoEZ": {
+          "global": true,
+          "Mode": "Basic",
+          "Server": "Universal",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoF5": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoFish": {
+          "DetectMode": "DataTracker",
+          "RodSave": false,
+          "ChangeRod": false,
+          "AutoSell": false,
+          "AntiSteal": true,
+          "AutoDrop": true,
+          "DropDelay": 100,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoScoreboard": {
+          "Line1": "Cardiac%%FUCK%%YOUR%%SERVER%%L",
+          "Line2": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "Line3": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "Line4": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "Line5": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "Line6": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "line7": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "line8": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "line9": "T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife%%T.me++SocketLife",
+          "line10": "FUCK%%NIGGERS%%YOUR%%SERVER%%L%%FUCK%%NIGGERS%%YOUR%%SERVER%%L%%FUCK%%NIGGERS%%YOUR%%SERVER%%L%%FUCK%%NIGGERS%%YOUR%%SERVER%%L%%FUCK%%NIGGERS%%YOUR%%SERVER%%L",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoSex": {
+          "Target Range": 10,
+          "Sex Mode": "Active",
+          "Message Delay": 1,
+          "Language Mode": "Russian",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoSign": {
+          "Line1": "MasonTEAM",
+          "Line2": "@CardiacHELL",
+          "Line3": "Your%%%%farm%%%%killed.",
+          "Line4": "\u003cdate\u003e",
+          "DateFormat": "dd++MM++yyyy",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "AutoSprint": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "AutoTitles": {
+          "Subtitle": "T.ME++SocketLife%%LLLLLLLLLLLLLLLLLL%%",
+          "Actionbar": "Renovations%%in%%progress.",
+          "SubtitleEnabled": true,
+          "ActionbarEnabled": true,
+          "TitleBold": true,
+          "TitleItalic": false,
+          "TitleColor": "red",
+          "SubtitleBold": true,
+          "SubtitleItalic": true,
+          "SubtitleColor": "green",
+          "ActionbarBold": true,
+          "ActionbarItalic": false,
+          "ActionbarColor": "yellow",
+          "FadeIn": 5,
+          "Duration": 9999,
+          "FadeOut": 9999,
+          "NoTitleSelf": true,
+          "NoTitleFriends": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BabyModel": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Bad Trip": {
+          "Speed": 1000,
+          "Factor": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BetterChat": {
+          "annoy": false,
+          "fancy-chat": false,
+          "timestamps": false,
+          "player-heads": false,
+          "anti-spam": true,
+          "depth": 20,
+          "anti-clear": false,
+          "filter-regex": false,
+          "longer-chat-history": false,
+          "extra-lines": 1000,
+          "prefix": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BetterF5": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "BlockHighLight": {
+          "Mode": "Both",
+          "Color": [
+            -1811939328,
+            false,
+            0
+          ],
+          "LineWidth": 5.0,
+          "fadeSpeed": 5.0,
+          "startFadeTime": 5.0,
+          "sliderSpeed": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BreadCrumbs": {
+          "ThroughWalls": true,
+          "ListLimit": 99999,
+          "ColorMode": "Sync",
+          "Color": [
+            3649978,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "BreakHighLight": {
+          "Mode": "Grow",
+          "Color": [
+            -1873000119,
+            false,
+            0
+          ],
+          "Color2": [
+            -16777216,
+            false,
+            0
+          ],
+          "OutlineColor": [
+            -1874854656,
+            false,
+            0
+          ],
+          "OutlineColor2": [
+            -13697792,
+            false,
+            0
+          ],
+          "LineWidth": 2.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Capes": {
+          "Optifine": false,
+          "Minecraftcapes.net": false,
+          "VisualDetect": true,
+          "Priority": "Optifine",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ChatTranslator": {
+          "YourLanguage": "ru",
+          "OutMessages": "uk",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ChatUtils": {
+          "Welcomer": "Off",
+          "Prefix": "None",
+          "Totems": false,
+          "Mention": false,
+          "PMSound": "Default",
+          "ZOV": true,
+          "wAvY": false,
+          "Translit": true,
+          "AntiCoordLeak": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ChinaHat": {
+          "Radius": 0.55,
+          "Texture": "Turbine",
+          "ColorMode": "Sync",
+          "Color": [
+            -8355712,
+            false,
+            0
+          ],
+          "Opacity": 1.0,
+          "Self": true,
+          "Friends": true,
+          "Others": true,
+          "Antialiasing": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ClickGui": {
+          "Gradient": "LeftToRight",
+          "TextSide": "Left",
+          "Mode": "Default",
+          "Radius": 4,
+          "ScrollMode": "Old",
+          "CategoryHeight": 300,
+          "Descriptions": true,
+          "Blur": false,
+          "Tips": false,
+          "Shader": false,
+          "Image": "Succubus",
+          "ModuleWidth": 120,
+          "ModuleHeight": 14,
+          "SettingFontScale": 13,
+          "ModulesFontScale": 14,
+          "Gear": true,
+          "GearScale": 60,
+          "GearDuration": 0.5,
+          "GearStop": 25,
+          "CloseAnimation": true,
+          "Keybind": [
+            80,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ClientSettings": {
+          "CustomMainMenu": true,
+          "CustomPanorama": true,
+          "CustomLoadingScreen": true,
+          "ScaleFactorFix": false,
+          "ScaleFactorFixValue": 1.96,
+          "SkullEmoji": false,
+          "Debug": false,
+          "CustomBob": false,
+          "Sync": false,
+          "CustomButtons": true,
+          "CustomSkinEnabled": true,
+          "PlayerSkin": "SKIN6",
+          "Language": "RU",
+          "Prefix": "@",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ClientSpoof": {
+          "Mode": "Lunar1_20_4",
+          "Client": "feather",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "CompletionExploit": {
+          "AutoMode": true,
+          "Packets": 3,
+          "Length": 2032,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ConsoleFlood": {
+          "Packets": 1,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Cooldowns": {
+          "Position": [
+            0.6266856,
+            0.43574053
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Coords": {
+          "NetherCoords": "On",
+          "Mode": "Default",
+          "Glow": false,
+          "Position": [
+            0.0,
+            0.9759259
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "CordDropper": {
+          "Keybind": [
+            320,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Crosshair": {
+          "Mode": "Default",
+          "Animated": false,
+          "Dot": false,
+          "T": false,
+          "ColorMode": "Sync",
+          "Color": [
+            -1,
+            false,
+            0
+          ],
+          "Dynamic": false,
+          "Range": 14.49,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "CrosshairArrows": {
+          "Height": 2.28,
+          "TracerRadius": 68,
+          "Friend": [
+            -16717824,
+            false,
+            0
+          ],
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "CrystalChams": {
+          "Crystals": false,
+          "CrystalColor": [
+            -1825711896,
+            false,
+            0
+          ],
+          "StaticCrystal": true,
+          "CrystalMode": "One",
+          "AlternativeBlending": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Cubach": {
+          "SpawnRadius": 5,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "CustomLight": {
+          "LightColor": [
+            -65536,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "DamageTint": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "DiscordRPC": {
+          "Picture": "MegaCute",
+          "ShowIP": true,
+          "StateMode": "Version",
+          "State": "SocKETdEV",
+          "Nickname": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "DoubleDoorsInteract": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ElytraIndicator": {
+          "Position": [
+            1.0072917,
+            0.8415543
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "EnchantColor": {
+          "enchantSpeed": 2.0,
+          "enchantSize": 2.11,
+          "Alpha": 255,
+          "Color": [
+            -1,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ExtraPing": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ExtraTab": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "FOV": {
+          "FOV modifier": 175,
+          "Item Fov": false,
+          "Item FOV modifier": 309,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "FakePlayer": {
+          "CopyInventory": false,
+          "Record": false,
+          "Play": false,
+          "AutoTotem": true,
+          "Name": "Qehhre",
+          "Clear": false,
+          "Keybind": [
+            86,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "FastLatency": {
+          "Delay": 310,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Fps": {
+          "Mode": "Catlean",
+          "Glow": false,
+          "Position": [
+            0.9937503,
+            0.9405943
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "FreeLook": {
+          "Mode": "Camera",
+          "TogglePerspective": true,
+          "Sensitivity": 0.2,
+          "Keybind": [
+            293,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Fullbright": {
+          "MinBright": 0.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "HandOfDestruction": {
+          "AutoDestroy": true,
+          "ExcludeSelf": true,
+          "SpawnWithers": true,
+          "FillLava": true,
+          "LavaHeight": 60,
+          "DestroyRadius": 30,
+          "LavaDelay": 10,
+          "DestroyDelay": 10,
+          "WitherDelay": 50,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HitBoom": {
+          "Particle": "CLOUD",
+          "ParticleAmount": 11,
+          "OnlySelf": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HitBubbles": {
+          "Mode": "Bubble",
+          "LifeTime": 150,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HitMarker": {
+          "DisplayTime": 500,
+          "Scale": 1.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HitParticles": {
+          "Mode": "StarReborn",
+          "Physics": "Fall",
+          "Color": [
+            -838860801,
+            false,
+            0
+          ],
+          "Self": false,
+          "Amount": 1,
+          "LifeTime": 1,
+          "Speed": 10,
+          "Scale": 1.63,
+          "ColorMode": "Custom",
+          "HealColor": [
+            3142544,
+            false,
+            0
+          ],
+          "DamageColor": [
+            15811379,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HitboxPlus": {
+          "renderLookDir": false,
+          "HitboxColor": [
+            -64765,
+            false,
+            0
+          ],
+          "EyeColor": [
+            0,
+            false,
+            0
+          ],
+          "LookDirColor": [
+            -16776961,
+            false,
+            0
+          ],
+          "LineSize": 2.18,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Hotbar": {
+          "LeftHandMode": "Separately",
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "HotbarAnimation": {
+          "Mode": "Normal",
+          "hotbarSpeed": 0.44,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "HudEditor": {
+          "Sticky": true,
+          "HudStyle": "Glowing",
+          "ArrowsStyle": "New",
+          "ColorMode": "DoubleColor",
+          "ColorSpeed": 7,
+          "Light": true,
+          "Color": [
+            -13948018,
+            false,
+            0
+          ],
+          "Color2": [
+            -5134939,
+            false,
+            0
+          ],
+          "PlateColor": [
+            -65536,
+            false,
+            0
+          ],
+          "TextColor": [
+            -1,
+            false,
+            0
+          ],
+          "TextColor2": [
+            -1,
+            false,
+            0
+          ],
+          "BlurColor": [
+            -16773595,
+            false,
+            0
+          ],
+          "HudRound": 4.36,
+          "Alpha": 0.6,
+          "Blend": 4.29,
+          "Outline": 0.98,
+          "Glow": 0.33,
+          "BlurOpacity": 0.74,
+          "BlurStrength": 14.9,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "InventoryHud": {
+          "Position": [
+            0.8072914,
+            0.3148147
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ItemByteSize": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ItemOverlay": {
+          "IconItem": true,
+          "TextColor": [
+            -1,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ItemPhysic": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ItemScroller": {
+          "Delay": 0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "JumpCircle": {
+          "Mode": "Detect",
+          "EaseOut": true,
+          "RotateSpeed": 1.1,
+          "CircleScale": 0.86,
+          "OnlySelf": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "KeyBinds": {
+          "Mode": "Catlean",
+          "OnColor": [
+            -1,
+            false,
+            0
+          ],
+          "UseGradient": true,
+          "Position": [
+            0.20029056,
+            0.22407416
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Keystrokes": {
+          "Key Mouse": true,
+          "PressColor": [
+            822126328,
+            false,
+            0
+          ],
+          "Scale": 20,
+          "Position": [
+            0.9500002,
+            0.001950331
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "KillEffect": {
+          "Mode": "MLG",
+          "Y Speed": 10,
+          "Volume": 68,
+          "Play Sound": true,
+          "Color": [
+            -1761673216,
+            false,
+            0
+          ],
+          "Mobs": false,
+          "SlowMotion": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "LOGOUTSpot": {
+          "RenderMode": "Textured",
+          "Color": [
+            -1086773860,
+            false,
+            0
+          ],
+          "IgnoreBots": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "LightOverlay": {
+          "HorizontalRange": 8,
+          "VerticalRange": 4,
+          "1.18+": true,
+          "SpawnColor": [
+            14752025,
+            false,
+            0
+          ],
+          "PotentialSpawnColor": [
+            14803225,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "LineGlyphs": {
+          "GlyphsCount": 20,
+          "SlowSpeed": false,
+          "ColorMode": "Sync",
+          "PickColor1": [
+            -38476,
+            false,
+            0
+          ],
+          "PickColor2": [
+            -12829441,
+            false,
+            0
+          ],
+          "FadeSpeed": 0.2,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MassTpaExploit": {
+          "Command": "++tpa",
+          "Delay": 1.0,
+          "IgnoreErrors": false,
+          "StopWhenAccepted": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Media": {
+          "Skin Protect": false,
+          "Nick Protect": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MemoryHud": {
+          "Position": [
+            0.11664846,
+            0.9759259
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "MotionGraph": {
+          "ColorMode": "Sync",
+          "CustomColor": [
+            -11488076,
+            false,
+            0
+          ],
+          "LineWidth": 2.5,
+          "ShowGrid": true,
+          "Position": [
+            0.4875,
+            0.46336633
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NameProtect": {
+          "name": "ИДИ%%%%НАХУЙ%%%%",
+          "Hide friends": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NameTags": {
+          "Self": true,
+          "Scale": 0.99,
+          "Resize": false,
+          "Height": 1.96,
+          "Gamemode": false,
+          "Ping": false,
+          "HP": true,
+          "Distance": true,
+          "TotemPops": false,
+          "OutlineType": "New",
+          "FriendOutline": "New",
+          "OutlineColor": [
+            -2130771968,
+            false,
+            0
+          ],
+          "IgnoreBots": true,
+          "Fill": [
+            1778384896,
+            false,
+            0
+          ],
+          "FriendFill": [
+            -2130761945,
+            false,
+            0
+          ],
+          "FontMode": "Fancy",
+          "Health": "Number",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NetworkOptimizer": {
+          "NoCapes": true,
+          "NoSkins": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoBob": {
+          "Mode": "Sexy",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "NoPacketException": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "NoRender": {
+          "noGuiBackGround": true,
+          "NoHandSwing": false,
+          "Auto": false,
+          "HurtCam": true,
+          "Potions": true,
+          "XP": false,
+          "Arrows": false,
+          "Eggs": true,
+          "Guardian": true,
+          "Pumpkin": false,
+          "Vignette": true,
+          "Portal": true,
+          "Explosions": true,
+          "CampFire": true,
+          "Fireworks": true,
+          "Armor": false,
+          "Bossbar": false,
+          "FireOverlay": true,
+          "WaterOverlay": true,
+          "BlockOverlay": true,
+          "Nausea": true,
+          "Blindness": true,
+          "Fog": true,
+          "Darkness": true,
+          "Items": false,
+          "Crystals": false,
+          "FireEntity": true,
+          "BreakParticles": true,
+          "AntiTitle": false,
+          "AntiPlayerCollision": true,
+          "NoScoreBoard": false,
+          "SignText": false,
+          "NoWeather": true,
+          "NoArmorStands": false,
+          "SpawnerEntity": false,
+          "HotbarItemName": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Notifications": {
+          "Mode": "CrossHair",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "OPServerKillModule": {
+          "dontBeStupid": false,
+          "notOP": false,
+          "sendCommandFeedback": false,
+          "logAdminCommands": false,
+          "crashOtherPlayers": false,
+          "Scale": 50,
+          "KillValue": 2147483647,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PVPResources": {
+          "Position": [
+            0.69613004,
+            0.31299564
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PaperDupe": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Particles": {
+          "FireFlies": true,
+          "FFCount": 54,
+          "FFSize": 0.61,
+          "Mode": "StarReborn",
+          "Count": 98,
+          "Size": 0.99,
+          "SpawnRadius": 60,
+          "SpawnHeight": 30,
+          "Gravity": 0.01,
+          "TiltAngle": 15.0,
+          "ColorMode": "Sync",
+          "Color": [
+            3649978,
+            false,
+            0
+          ],
+          "Physics": "Fly",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PasswordHider": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PenisESP": {
+          "OnlyOwn": false,
+          "BallSize": 0.5,
+          "PenisSize": 3.0,
+          "FriendSize": 3.0,
+          "EnemySize": 3.0,
+          "Gradation": 27,
+          "Fimoz": false,
+          "PenisColor": [
+            -65536,
+            false,
+            0
+          ],
+          "HeadColor": [
+            -1035596,
+            false,
+            0
+          ],
+          "Self": true,
+          "Friends": true,
+          "Others": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Ping": {
+          "Mode": "Default",
+          "Glow": false,
+          "Position": [
+            0.97708356,
+            0.9405943
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PingSpoof": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PluginCollector": {
+          "TrySlash": true,
+          "TryColonSlash": true,
+          "TryTabComplete": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "PopChams": {
+          "Mode": "Textured",
+          "SecondLayer": true,
+          "Color": [
+            -2008460146,
+            false,
+            0
+          ],
+          "YSpeed": 0,
+          "AlphaSpeed": 5,
+          "RotationSpeed": 0.25,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Potions": {
+          "Glow": false,
+          "Mode": "Catlean",
+          "Position": [
+            0.035416685,
+            0.22407416
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "PredictHelper": {
+          "ColorMode": "Sync",
+          "Color": [
+            575714484,
+            false,
+            0
+          ],
+          "LandedColorMode": "Sync",
+          "LandedColor": [
+            575714484,
+            false,
+            0
+          ],
+          "TextColor": [
+            -1,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Preview": {
+          "Scale": 50,
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Radio": {
+          "Volume": 50,
+          "Chanel": "KoronaFM100",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "RecodeGui": {
+          "Mode": "Digital",
+          "Blur": false,
+          "Particles": true,
+          "RecodeColor": [
+            -1,
+            false,
+            0
+          ],
+          "LogoColor": [
+            -83886081,
+            false,
+            0
+          ],
+          "TextColor": [
+            -83886081,
+            false,
+            0
+          ],
+          "IconColor": [
+            -83886081,
+            false,
+            0
+          ],
+          "Keybind": [
+            344,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "RemovePickAnim": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "RepairAlert": {
+          "Friend message": true,
+          "Percent": 15,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ScopeLines": {
+          "Mode": "Gradient",
+          "Color": [
+            -1,
+            false,
+            0
+          ],
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ServerHelper": {
+          "DisorientRadius": true,
+          "DisorientColor": [
+            -16766209,
+            false,
+            0
+          ],
+          "DisorientColor2": [
+            -1275133697,
+            false,
+            0
+          ],
+          "TrapRadius": true,
+          "TrapColor": [
+            -1275133952,
+            false,
+            0
+          ],
+          "TrapColor2": [
+            -1291780352,
+            false,
+            0
+          ],
+          "LayerRadius": true,
+          "LayerColor": [
+            -1275133952,
+            false,
+            0
+          ],
+          "LayerColor2": [
+            -1291845377,
+            false,
+            0
+          ],
+          "PhotoMath": false,
+          "/near": false,
+          "Farmilka": false,
+          "SpecNotify": false,
+          "AucHelper": true,
+          "GroupBy": "Name",
+          "Contrast": 1,
+          "BasePrice": 93000000,
+          "SpecificEnchants": true,
+          "RequireKnockback2": true,
+          "RequireProtection5": false,
+          "SortMode": "Цена → Прочность",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "SessionHud": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Shaders": {
+          "Hands": true,
+          "Players": true,
+          "Self": true,
+          "Friends": true,
+          "Crystals": false,
+          "Creatures": false,
+          "Monsters": false,
+          "Ambients": true,
+          "Others": true,
+          "Mode": "Smoke",
+          "HandsMode": "Smoke",
+          "MaxRange": 16,
+          "GradientFactor": 20.0,
+          "Gradient": 12.29,
+          "GradientAlpha": 239,
+          "LineWidth": 295,
+          "Quality": 3,
+          "SmokeOctaves": 24,
+          "FillAlpha": 255,
+          "Glow": true,
+          "HighlightColor": [
+            -1,
+            false,
+            0
+          ],
+          "Outline": [
+            -2006628609,
+            false,
+            0
+          ],
+          "SmokeOutline": [
+            -2009515719,
+            false,
+            0
+          ],
+          "SmokeOutline2": [
+            -1996488705,
+            false,
+            0
+          ],
+          "Fill": [
+            -385200754,
+            false,
+            0
+          ],
+          "SmokeFill": [
+            -1320932744,
+            false,
+            0
+          ],
+          "SmokeFil2": [
+            2016608867,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Shadow": {
+          "Mode": "Normal",
+          "RenderFirst": false,
+          "SecondLayer": true,
+          "Color": [
+            -65536,
+            false,
+            0
+          ],
+          "YSpeed": 2,
+          "ScaleFactor": 1.6,
+          "AlphaSpeed": 3,
+          "RotationSpeed": 1.26,
+          "CloneFrequency": 2,
+          "Self": true,
+          "Friends": false,
+          "Others": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SkeetLine": {
+          "Color": [
+            3649978,
+            false,
+            0
+          ],
+          "Color2": [
+            3649978,
+            false,
+            0
+          ],
+          "Color3": [
+            3649978,
+            false,
+            0
+          ],
+          "Height": 1.3,
+          "Speed": 1.0,
+          "ColorsNumber": 3,
+          "Direction": "LEFT_TO_RIGHT",
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SkinDerp": {
+          "Sync": true,
+          "Delay": 0,
+          "Hat": true,
+          "Jacket": true,
+          "LeftPants": true,
+          "RightPants": true,
+          "LeftSleeve": true,
+          "RightSleeve": true,
+          "Cape": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SoundFX": {
+          "Volume": 200,
+          "EnableMode": "Inertia",
+          "DisableMode": "Inertia",
+          "HitSound": "OFF",
+          "KillSound": "ON",
+          "ScrollSound": "KeyBoard",
+          "Mobs": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Spammer": {
+          "mode": "Chat",
+          "messages": "File",
+          "prefix": "W",
+          "global": true,
+          "AntiSpam": false,
+          "delay": 5.0,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Speedometer": {
+          "BPS": true,
+          "Average": false,
+          "Position": [
+            0.97708356,
+            0.9759259
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "StaffBoard": {
+          "Position": [
+            0.5,
+            0.5
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "SwordBlock": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TNTHelper": {
+          "TNTFuse": true,
+          "Alert": true,
+          "TNTRange": 4.08,
+          "TNTFuseText": [
+            -1323313889,
+            false,
+            0
+          ],
+          "TNTRadius": true,
+          "TNTSphereColor": [
+            -520947,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TPS": {
+          "ExtraTPS": true,
+          "Mode": "Digital",
+          "Glow": false,
+          "Position": [
+            0.9664062,
+            0.975926
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TargetESP": {
+          "ESP": "Rockstar",
+          "ESPLength": 28,
+          "ESPFactor": 9,
+          "ESPShaking": 1.8,
+          "ESPAmplitude": 3.0,
+          "DeltaEdition": true,
+          "ESPSpeed": 1.84,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "TargetHud": {
+          "BallonBlur": 10,
+          "HP Mode": "HP",
+          "Image": "Anime",
+          "Mode": "Catlean",
+          "Color1": [
+            -16492289,
+            false,
+            0
+          ],
+          "Color2": [
+            -16492289,
+            false,
+            0
+          ],
+          "Mini": false,
+          "Position": [
+            0.5860156,
+            0.70888054
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "ToolSaver": {
+          "Save %": 10,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Tooltips": {
+          "MiddleClickOpen": true,
+          "Storage": true,
+          "Maps": true,
+          "ShulkerRegear": true,
+          "RegearShift": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "TotemAnimation": {
+          "Mode": "Otkisuli",
+          "Speed": 40,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "TotemParticle": {
+          "Color": [
+            -1,
+            false,
+            0
+          ],
+          "Color2": [
+            -16777216,
+            false,
+            0
+          ],
+          "velocityXZ": 100,
+          "velocityY": 100,
+          "Scale": 10,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "TrailBoom": {
+          "Particle": "RAIN",
+          "ParticleCount": 20,
+          "PhysicsMode": "DROP",
+          "FirstPerson": false,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Trails": {
+          "Xp": true,
+          "Pearls": "Particles",
+          "Arrows": "Trail",
+          "Players": "None",
+          "Show": true,
+          "OnlySelf": false,
+          "Color": [
+            -1677787136,
+            false,
+            0
+          ],
+          "Down": 0.0,
+          "Height": 1.07,
+          "TailLength": 1.03,
+          "TailThickness": 0.76,
+          "Speed": 1,
+          "Mode": "StarReborn",
+          "Physics": "Fly",
+          "Scale": 2,
+          "Amount": 2,
+          "LifeTime": 3,
+          "ColorMode": "Sync",
+          "Color2": [
+            575714484,
+            false,
+            0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Trolling": {
+          "Delay": 4,
+          "Server": "FunnyGame",
+          "Mode": "Default",
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Twerk": {
+          "TwerkSpeed": 10,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "UnHook": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "UnfocusedCPU": {
+          "VSync": 15,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "ViewModel": {
+          "SyncHands": false,
+          "positionMainX": -0.12,
+          "positionMainY": 0.0,
+          "positionMainZ": 0.06,
+          "ScaleMain": 0.98,
+          "rotationMainX": 0.0,
+          "rotationMainY": 0.0,
+          "rotationMainZ": 0.0,
+          "animateMainX": false,
+          "animateMainY": false,
+          "animateMainZ": false,
+          "speedAnimateMain": 1.0,
+          "positionOffX": 0.0,
+          "positionOffY": 0.0,
+          "positionOffZ": 0.0,
+          "ScaleOff": 1.0,
+          "rotationOffX": 0.0,
+          "rotationOffY": 0.0,
+          "rotationOffZ": 0.0,
+          "animateOffX": false,
+          "animateOffY": false,
+          "animateOffZ": false,
+          "speedAnimateOff": 1.0,
+          "EatX": 1.25,
+          "EatY": 0.71,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "VirtualMousepad": {
+          "ColorMode": "Sync",
+          "CustomColor": [
+            -12532481,
+            false,
+            0
+          ],
+          "LineWidth": 1.0,
+          "TrailLength": 100,
+          "Position": [
+            0.0,
+            0.0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "WaterMark": {
+          "Mode": "CatLean",
+          "Position": [
+            0.0,
+            0.0
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": true
+        }
+      },
+      {
+        "Welcomer": {
+          "Position": [
+            0.0,
+            0.9405943
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Windows": {
+          "macroPos": [
+            0.24280477,
+            0.5056253
+          ],
+          "configPos": [
+            0.64581597,
+            0.11508638
+          ],
+          "friendPos": [
+            0.029976837,
+            0.16716649
+          ],
+          "proxyPos": [
+            0.5791581,
+            0.5314764
+          ],
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      },
+      {
+        "Zoom": {
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      }
+    ]
+  }
+]
